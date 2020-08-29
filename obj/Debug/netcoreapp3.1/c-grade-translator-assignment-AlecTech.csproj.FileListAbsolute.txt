@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Programming\c-grade-translator-assignment-AlecTech\bin\Debug\netcoreapp3.1\c-grade-translator-assignment-AlecTech.exe
+C:\Users\User\Desktop\Programming\c-grade-translator-assignment-AlecTech\bin\Debug\netcoreapp3.1\c-grade-translator-assignment-AlecTech.deps.json
+C:\Users\User\Desktop\Programming\c-grade-translator-assignment-AlecTech\bin\Debug\netcoreapp3.1\c-grade-translator-assignment-AlecTech.runtimeconfig.json
+C:\Users\User\Desktop\Programming\c-grade-translator-assignment-AlecTech\bin\Debug\netcoreapp3.1\c-grade-translator-assignment-AlecTech.runtimeconfig.dev.json
+C:\Users\User\Desktop\Programming\c-grade-translator-assignment-AlecTech\bin\Debug\netcoreapp3.1\c-grade-translator-assignment-AlecTech.dll
+C:\Users\User\Desktop\Programming\c-grade-translator-assignment-AlecTech\bin\Debug\netcoreapp3.1\c-grade-translator-assignment-AlecTech.pdb
+C:\Users\User\Desktop\Programming\c-grade-translator-assignment-AlecTech\obj\Debug\netcoreapp3.1\c-grade-translator-assignment-AlecTech.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programming\c-grade-translator-assignment-AlecTech\obj\Debug\netcoreapp3.1\c-grade-translator-assignment-AlecTech.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programming\c-grade-translator-assignment-AlecTech\obj\Debug\netcoreapp3.1\c-grade-translator-assignment-AlecTech.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming\c-grade-translator-assignment-AlecTech\obj\Debug\netcoreapp3.1\c-grade-translator-assignment-AlecTech.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\c-grade-translator-assignment-AlecTech\obj\Debug\netcoreapp3.1\c-grade-translator-assignment-AlecTech.dll
+C:\Users\User\Desktop\Programming\c-grade-translator-assignment-AlecTech\obj\Debug\netcoreapp3.1\c-grade-translator-assignment-AlecTech.pdb
+C:\Users\User\Desktop\Programming\c-grade-translator-assignment-AlecTech\obj\Debug\netcoreapp3.1\c-grade-translator-assignment-AlecTech.genruntimeconfig.cache
